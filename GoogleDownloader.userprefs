@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="GoogleDownloader/GoogleDownloader.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoogleDownloader/Program.cs">
+    <Files>
+      <File FileName="GoogleDownloader/Program.cs" Line="120" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/cs/Documents/code/GoogleDownloader/GoogleDownloader/Program.cs" line="131" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Downloads/lean_quantconnect/Lean-master/Engine/Engine.cs" line="379" offsetX="488" offsetY="6804" expression="st_" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
