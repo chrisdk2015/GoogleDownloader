@@ -74,9 +74,7 @@ namespace GoogleDownloader
 					}
 					if (file_open)
 					{
-						//we assume time start is 3:30 PM
-						//even though Google says 1:30 PM
-						var start_time = 5.58e+7;
+						var start_time = 3.42e+7;
 						using(StreamWriter swfile = new System.IO.StreamWriter(fullpath))
 						{
 							int first_seen = 0;
