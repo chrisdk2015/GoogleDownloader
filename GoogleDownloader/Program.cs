@@ -100,10 +100,10 @@ namespace GoogleDownloader
 								Int32.TryParse(str_[0],out min);
 								var time = start_time + 60000*min;
 
-								Decimal.TryParse(str_[1],out open);
+								Decimal.TryParse(str_[1],out close);
 								Decimal.TryParse(str_[2],out high);
 								Decimal.TryParse(str_[3],out low);
-								Decimal.TryParse(str_[4],out close);
+								Decimal.TryParse(str_[4],out open);
 								Int32.TryParse(str_[5],out volume);
 								int _open, _high, _low, _close;
 								_open = Decimal.ToInt32(10000*open);
